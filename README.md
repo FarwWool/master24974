@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @master24974
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Lua\Roblox
