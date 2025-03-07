@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @master24974
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Lua\Roblox
+- 👋 Hi, I’m @FareWool
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning nothing
